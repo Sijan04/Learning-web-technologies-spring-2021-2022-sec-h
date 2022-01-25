@@ -1,0 +1,73 @@
+<infos>
+    <info>
+    <id>11</id>
+    <name>samsung</name>
+    <unit price>35000</unit price>
+    <stock>50</stock>
+    <status>1</status>
+    </info>
+    <info>
+    <id>20</id>
+    <name>htc</name>
+    <unit price>65300</unit price>
+    <stock>35</stock>
+    <status>0</status>
+    </info>
+    <info>
+    <id>23</id>
+    <name>nokia</name>
+    <unit price>25100</unit price>
+    <stock>100</stock>
+    <status>1</status>
+    </info>
+  </infos>
+
+
+
+
+<infos>
+  <info>
+  <SL NO>23</SL NO>
+  <name>john carter</name>
+  <admission date>25/12/2015</admission date>
+  </info>
+  <info>
+  <SL NO>29</SL NO>
+  <name>Bob marsal</name>
+  <admission date>13/01/1999</admission date>
+  </info>
+  <info>
+  <SL NO>35</SL NO>
+  <name>Clark kent</name>
+  <admission date>17/06/2005
+  </info>
+ </infos>
+
+
+
+
+
+ <infos>
+    <info>
+    <id>1</id>
+    <name>jhoe doe</name>
+    <address>H# 38, R#3,banani,dhaka</address>
+    <depertment>sales</depertment>
+    </info>
+    <info>
+    <id>2</id>
+    <name>mark zukerburg</name>
+    <address>flat#a/1,h#20,r#18,mirpur,dhaka</address>
+    <depertment>account</depertment>
+    </info>
+    <info>
+    <name>ala voski</name>
+    <address>H# 38, R#3,motijheel</address>
+    <depertment>human resource</depertment>
+    </info>
+  </infos>
+
+
+
+
+
